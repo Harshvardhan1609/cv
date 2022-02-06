@@ -1,0 +1,90 @@
+body{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: cyan;
+}
+
+.enter{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: relative;
+    position: relative;
+    left: 224px;
+    top: 20px;
+}
+
+.name{
+    font-family: 'Great Vibes', cursive;
+}
+
+.bold-letters{
+    font-weight: bolder;
+    PADDING: 35px;
+}
+
+.profile-pic{
+    height: 10%;
+    width: 5%;
+    position: relative;
+    top: 27px;
+}
+
+.down-pic{
+    position: relative;
+    top: 40px;
+}
+
+.top-container{
+    background-color: cyan;
+    margin: -1%;
+}
+.profile{
+    background-color: cyan;
+    margin: -1%;
+}
+
+.TECHLOVER{
+    height: 35%;
+    width: 89%;
+    padding: 48px;
+}
+
+.myskills{
+    background-color: cyan;
+    margin: auto;
+}
+
+hr{
+    color: transparent;
+    border: 0px;
+}
+
+.hmod{
+    background-color: cyan;
+}
+
+h2{
+    padding: unset;
+    margin: 0px;
+}
+
+.mountain_png{
+    position: relative;
+    top: -33px;
+    width: 1049px;
+}
+.GETINTOUCH{
+    height: 33%;
+    width: 71%;
+}
+
+.btn{
+    display:flexbox;
+    align-items: center;
+}
